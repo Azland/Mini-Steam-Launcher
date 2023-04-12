@@ -1,5 +1,6 @@
 # Mini-Steam-Launcher
-Rainmeter skin showing the top 3 most recently played games by user
+Rainmeter skin showing the top 3 most recently played games by user.
+![Screenshot of the skin in use.](/Mini-Steam-Launcher_Example.png)
 
 How to install:
 
